@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kap2Standard", "Kap2Standard\Kap2Standard.csproj", "{97EE22A7-548C-49C8-BC53-D6256CAD07B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kap2Standard.Tests", "Kap2Standard.Tests\Kap2Standard.Tests.csproj", "{1CDD53B2-1C79-4B8D-8E2D-5AFDD604662B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EE22A7-548C-49C8-BC53-D6256CAD07B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EE22A7-548C-49C8-BC53-D6256CAD07B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EE22A7-548C-49C8-BC53-D6256CAD07B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EE22A7-548C-49C8-BC53-D6256CAD07B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDD53B2-1C79-4B8D-8E2D-5AFDD604662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDD53B2-1C79-4B8D-8E2D-5AFDD604662B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDD53B2-1C79-4B8D-8E2D-5AFDD604662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDD53B2-1C79-4B8D-8E2D-5AFDD604662B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

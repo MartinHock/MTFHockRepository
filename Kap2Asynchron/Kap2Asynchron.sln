@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kap2Asynchron", "Kap2Asynchron\Kap2Asynchron.csproj", "{79850C56-9202-47DD-8C8E-FF77DC98AD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kap2Asynchron.Tests", "Kap2Asynchron.Tests\Kap2Asynchron.Tests.csproj", "{D79E742A-BA77-4B45-837F-3EDE93FD3EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79850C56-9202-47DD-8C8E-FF77DC98AD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79850C56-9202-47DD-8C8E-FF77DC98AD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79850C56-9202-47DD-8C8E-FF77DC98AD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79850C56-9202-47DD-8C8E-FF77DC98AD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79E742A-BA77-4B45-837F-3EDE93FD3EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79E742A-BA77-4B45-837F-3EDE93FD3EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79E742A-BA77-4B45-837F-3EDE93FD3EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79E742A-BA77-4B45-837F-3EDE93FD3EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

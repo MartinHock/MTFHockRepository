@@ -11,7 +11,8 @@ namespace Kap2Leer.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            object str = "Hallo ich bin string";
+            return View(str);
         }
     }
 }

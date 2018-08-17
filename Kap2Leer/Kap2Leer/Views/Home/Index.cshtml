@@ -1,8 +1,17 @@
-﻿
-@{
-    ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
+﻿@Model string 
+@{ Layout = null; } 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<div>
 
-<h2>Index</h2>
-
+    <p>
+        @Model
+    </p>
+</div>
+</body>
+</html> 
